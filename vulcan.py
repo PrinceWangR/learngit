@@ -1,1 +1,1 @@
-I am going to learn python.
+I am going to learn python this term.
