@@ -1,1 +1,1 @@
-I am going to learn python this year.
+I am going to learn python this term and I will do it to the best.
